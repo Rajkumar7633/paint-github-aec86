@@ -1,1 +1,1 @@
-# paint-github-aec86
+# STDLIB
